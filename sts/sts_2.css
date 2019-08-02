@@ -1,0 +1,122 @@
+.global_style {
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;
+	background-color: #4B96A6;
+}
+.h1_sector {
+	color: #000000;
+	background-color: #CCAA66;
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.footer {
+	font-size: x-small;
+	font-style: italic;
+	line-height: normal;
+	color: #000;
+	background-color: #65C279;
+	text-align: center;
+	height: 50px;
+	border-bottom-style: none;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #000;
+}
+
+.nav {
+	text-align: center;
+}
+.content {
+	line-height: normal;
+	color: #800080;
+	text-align: left;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-left: 5%;
+	padding-right: 15%;
+	text-decoration: none;
+	font-size: 10pt;
+	min-height: 400px;
+	max-height: 1500px;
+}
+.h3_selector {
+	background-color: #ccaa66;
+	padding-left: 10px;
+	padding-bottom: 5px;
+}
+.logo {
+	background-color: #FFF;
+	text-align:center;
+	font-family: Tahoma, Geneva, sans-serif;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+}
+.navBar {
+	text-decoration: none;
+	margin: 15px;
+	display: block;
+	list-style-type: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	background-color: #AED3DB;
+}
+a:link {
+	color: #00F;
+}
+a:hover {
+	text-decoration: none;
+	color: #FF0;
+}
+.floatright {
+	float: right;
+	padding-left: 40px;
+}
+#leftcolumn {
+	float: left;
+	width: 150px;
+	padding-top: 10px;
+	border-right-width: 1px;
+	border-right-style: dashed;
+	border-right-color: #000;
+}
+#rightcolumn {
+	margin-left: 100px;
+	background-color: #FFF;
+	color: #000000;
+	padding: 0px;
+}
+table {
+	border: 1px;
+	width: 75%;
+	margin: auto;
+	font-size: 12px;
+	text-align: left;
+}
+td, th {
+	padding:10px;
+}
+.altrow {
+	background-color: #ccaa66;
+}
+#myForm {
+	paddi0;ng: 10px;
+	margin: 10px;
+	min-width: 500px;
+	text-align: left;
+}
+.myRow {
+	height: 30px;
+	text-align: left;
+}
+.mySubmit {
+	margin-top:10px;
+	margin-left:110px;
+}
+.labelCol {
+	float: left;
+	width: 100px;
+	text-align: left;
+	padding-right: 10px;
+}

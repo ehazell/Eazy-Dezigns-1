@@ -1,0 +1,103 @@
+.container {
+	color: #4b96a6;
+	background-color: #FFF;
+	width: 75%;
+	border: 2px double #000000;
+	position: fixed;
+}
+.logo {
+	background-color: #FFF;
+	color:#800080;
+	text-align:center;
+	border-bottom: 2px double #000000;
+	font-size: x-large;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.footer {
+	font-size: small;
+	font-style: italic;
+	line-height: 0.6em;
+	color: #000;
+	background-color: #65c279;
+	text-align: center;
+	border-top: 2px double #000000;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+a:link {
+	color: #4B96A6;
+}
+a:hover {
+	text-decoration: none;
+	color: #65C279;
+}
+.content {
+	line-height: normal;
+	color: #800080;
+	text-align: left;
+	font-family: Verdana, Geneva, sans-serif;
+	padding-left: 20%;
+	padding-right: 20%;
+	text-decoration: none;
+	width: 80%;
+}
+.h3_selector {
+	background-color: #999;
+	text-transform: uppercase;
+	color: #06F;
+	font-size: 20px;
+	border-bottom: 1px solid #000000;
+	margin-right: 20px;
+}
+.floatleft {
+	float: left;
+	padding-right: 40px;
+}
+#leftcolumn {
+	float: left;
+	width: 165px;
+	padding-top: 10px;
+}
+#rightcolumn {
+	margin-left: 150px;
+	background-color: #FFF;
+	color: #800080;
+	padding: 10px;
+}
+table {
+	border: 1px;
+	width: 75%;
+	margin: auto;
+}
+td, th {
+	padding:10px;
+}
+.altrow {
+	background-color: #CCC;
+}
+#myForm {
+	paddi0;ng: 10px;
+	margin: 10px;
+	min-width: 500px;
+	text-align: left;
+}
+.myRow {
+	height: 30px;
+	text-align: left;
+}
+.mySubmit {
+	margin-top:10px;
+	margin-left:110px;
+}
+.labelCol {
+	float: left;
+	width: 100px;
+	text-align: left;
+	padding-right: 10px;
+}
+.navBar {
+	text-decoration: none;
+	margin: 15px;
+	display: block;
+	list-style-type: none;
+}

@@ -1,0 +1,127 @@
+.global_style {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #330000;
+	background-color: #FFFFCC;
+}
+.h1_sector {
+	color: #000000;
+	background-color: #CCAA66;
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.footer {
+	font-size: x-small;
+	font-style: italic;
+	line-height: 0.6em;
+	color: #000;
+	background-color: #65C279;
+	text-align: center;
+	height: 35px;
+}
+
+.nav {
+	text-align: center;
+}
+.content {
+	padding-left: 20%;
+	padding-right: 20%;
+	text-decoration: none;
+}
+.h3_selector {
+	background-color: #ccaa66;
+	padding-left: 10px;
+	padding-bottom: 5px;
+}
+.logo {
+	background-color: #FFF;
+	color:#000000;
+	text-align:center;
+	border-bottom: 2px double #000000;
+}
+.navBar {
+	text-decoration: none;
+	margin: 15px;
+	display: block;
+	list-style-type: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
+a:link {
+	color: #00F;
+}
+a:hover {
+	text-decoration: none;
+	color: #4B96A6;
+	font-style: normal;
+}
+.floatright {
+	float: right;
+	padding-left: 40px;
+}
+#leftcolumn {
+	float: left;
+	width: 150px;
+	padding-top: 10px;
+	background-color: #AED3DB;
+}
+#rightcolumn {
+	margin-left: 150px;
+	background-color: #FFF;
+	color: #000000;
+	padding: 10px;
+}
+table {
+	border: 1px;
+	width: 75%;
+	margin: auto;
+	font-size: 12px;
+	text-align: left;
+}
+td, th {
+	padding:10px;
+}
+.altrow {
+	background-color: #ccaa66;
+}
+#myForm {
+	paddi0;ng: 10px;
+	margin: 10px;
+	min-width: 500px;
+	text-align: left;
+}
+.myRow {
+	height: 30px;
+	text-align: left;
+}
+.mySubmit {
+	margin-top:10px;
+	margin-left:110px;
+}
+.labelCol {
+	float: left;
+	width: 100px;
+	text-align: left;
+	padding-right: 10px;
+}
+.paragraph_text {
+	line-height: normal;
+	color: #800080;
+	text-align: left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: small;
+	font-style: normal;
+	font-weight: normal;
+}
+.item_numbers {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: xx-small;
+	font-style: italic;
+	font-weight: bold;
+}
+.navigation_links {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	letter-spacing: 2px;
+	text-align: center;
+	font-weight: normal;
+}
